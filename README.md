@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Website Link: https://sszostak23.github.io/
+Fork Link: https://github.com/SSzostak23/LLMLingua
 
 Student AGH cyberbezpieczenstwo
 - 🔭 I’m currently working on a python project
