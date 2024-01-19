@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Website Link: https://sszostak23.github.io/
+Personal Website Link: https://sszostak23.github.io/
 Fork Link: https://github.com/SSzostak23/LLMLingua
+Paper Website: https://paperswithcode.com/paper/longllmlingua-accelerating-and-enhancing-llms
 
 Student AGH cyberbezpieczenstwo
 - 🔭 I’m currently working on a python project
